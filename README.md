@@ -1,1 +1,1 @@
-# Sem_1_POIT
+Labs and more in 1 semestr 
