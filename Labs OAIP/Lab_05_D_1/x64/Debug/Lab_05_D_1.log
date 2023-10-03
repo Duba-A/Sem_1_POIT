@@ -1,0 +1,5 @@
+﻿  Lab_05_D_1.cpp
+D:\Labs BSTU\Labs OAIP\Lab_05\Lab_05_D_1\Lab_05_D_1.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs BSTU\Labs OAIP\Lab_05\Lab_05_D_1\Lab_05_D_1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs BSTU\Labs OAIP\Lab_05\Lab_05_D_1\Lab_05_D_1.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab_05_D_1.vcxproj -> D:\Labs BSTU\Labs OAIP\Lab_05\x64\Debug\Lab_05_D_1.exe
