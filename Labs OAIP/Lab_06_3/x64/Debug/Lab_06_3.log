@@ -1,0 +1,8 @@
+﻿  Lab_06_3.cpp
+D:\Labs BSTU\Labs OAIP\Lab_06\Lab_06_3\Lab_06_3.cpp(4,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Labs BSTU\Labs OAIP\Lab_06\Lab_06_3\Lab_06_3.cpp(4,53): warning C4305: инициализация: усечение из "double" в "float"
+D:\Labs BSTU\Labs OAIP\Lab_06\Lab_06_3\Lab_06_3.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Labs BSTU\Labs OAIP\Lab_06\Lab_06_3\Lab_06_3.cpp(8,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Labs BSTU\Labs OAIP\Lab_06\Lab_06_3\Lab_06_3.cpp(11,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Labs BSTU\Labs OAIP\Lab_06\Lab_06_3\Lab_06_3.cpp(12,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab_06_3.vcxproj -> D:\Labs BSTU\Labs OAIP\Lab_06\x64\Debug\Lab_06_3.exe
